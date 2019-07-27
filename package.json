@@ -32,7 +32,7 @@
     "webpack": "^4.21.0",
     "webpack-cli": "^3.1.2"
   },
-  "dependencies": {
+  "peerDependencies": {
     "reason-react": "^0.5.3"
   }
 }
